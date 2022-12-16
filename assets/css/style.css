@@ -1,0 +1,22 @@
+body {
+    background-color:white ; 
+    margin: 0;
+    padding: 0;
+    
+}
+
+header {
+   width: 100%;
+   height: 50px;
+   background-color: darkgreen;
+   text-align: right;
+
+}
+
+h1, h2, h3 {
+    display: inline;
+    font-size: 30px;
+    
+}
+
+
